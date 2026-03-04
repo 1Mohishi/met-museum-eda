@@ -6,7 +6,7 @@ An exploratory data analysis of The Met's open-access collection, containing ove
 
 ##  Dataset
 
-- **Source:** [The Metropolitan Museum of Art Open Access](https://github.com/metmuseum/openaccess)
+- **Source:** [Kaggle - The Metropolitan Museum of Art](https://www.kaggle.com/datasets/metmuseum/the-metropolitan-museum-of-art-open-access)
 - **Size:** 448,203 artworks × 43 columns
 - **Fields include:** Department, Artist, Nationality, Medium, Date, Country, Classification
 
